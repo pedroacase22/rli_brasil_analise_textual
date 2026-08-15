@@ -1,0 +1,8 @@
+RLI — Análise textual e redes de coocorrência
+
+1. Abra o projeto no RStudio.
+2. Execute: source('build_site.R')
+3. Abra index.html em um navegador.
+
+Produtos: nuvens, redes de coocorrência por artigo, métricas de nós e arestas, auditoria lexical e site interativo.
+Dependência: jsonlite.
